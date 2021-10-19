@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\user\onedrive - 國立臺北科技大學\桌面\2.32\source\main.c(7): warning C4474: 'scanf_s': 傳遞給格式字串的引數太多
+  c:\users\user\onedrive - 國立臺北科技大學\桌面\2.32\source\main.c(7): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 3 個
+  ntut2.32.vcxproj -> C:\Users\User\OneDrive - 國立臺北科技大學\桌面\2.32\source\ntut2.32\Debug\ntut2.32.exe
